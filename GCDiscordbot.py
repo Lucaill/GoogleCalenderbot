@@ -5,7 +5,7 @@ from googleapiclient.discovery import build
 import asyncio
 
 # Discord Bot Token
-DISCORD_TOKEN = 'MTE5NDUzNDU5MjcyODgwMTM1MQ.GGDNW4.oKEwTxXNPGYs2JLcpl8GAN9zgzUEWcxkU672gU'
+DISCORD_TOKEN = 'XXXXXXXXXXXXXXXXXXXXX'
 
 # Google Calendar API情報
 GOOGLE_CREDENTIALS = r'./path/calender-api-000000'  # 相対パス
