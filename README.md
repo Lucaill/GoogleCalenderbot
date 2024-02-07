@@ -1,0 +1,2 @@
+# GoogleCalenderbot
+Discord上で朝7時に特定のチャンネルにGooglecalendarの予定を投稿するBOTです。
